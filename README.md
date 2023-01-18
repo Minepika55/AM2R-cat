@@ -1,6 +1,7 @@
 # AM2R-cat
 (Necessites una copia d'AM2R per aplicar aquesta traducciò).
 Traducció al Català d'AM2R.
+
 Per instal·lar només cal:
 1. Baixa l'arxiu "catalan.ini" i posar-lo en AM2R\lang\.
 
