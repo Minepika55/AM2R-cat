@@ -7,4 +7,4 @@ Per instal·lar només cal:
 
 3. Llança el joc i canvia l'idioma en les opcions.
 
-Agraïments a atemporalDarkness, Imsu. Els quals van fer la traducció castellana en la qual es basa aquesta traducció.
+Agraïments a atemporalDarkness i Imsu. Els quals van fer la traducció castellana en la qual es basa aquesta traducció.
