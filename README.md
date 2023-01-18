@@ -6,3 +6,5 @@ Per instal·lar només cal:
 2. En AM2R\lang\, obre l'arxiu "languages.txt" i afegeix una línia amb el text: "*catalan.*ini". També pots substituir l'arxiu per el "languages.txt" que hi ha a la repo.
 
 3. Llança el joc i canvia l'idioma en les opcions.
+
+Agraïments a atemporalDarkness, Imsu. Els quals van fer la traducció castellana en la qual es basa aquesta traducció.
