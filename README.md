@@ -1,5 +1,6 @@
 # AM2R-cat
 (Necessites una copia d'AM2R per aplicar aquesta traducciò).
+
 Traducció al Català d'AM2R.
 
 Per instal·lar només cal:
