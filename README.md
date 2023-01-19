@@ -10,4 +10,6 @@ Per instal·lar només cal:
 
 3. Llança el joc i canvia l'idioma en les opcions.
 
+(Si és vol utilitzar amb les actuzlitzacións de la comunitat l'arxiu "languages.txt" i "catalan.ini" s'han de posar a "AM2R\AM2RLauncher\Profiles\Community Updates (Latest)\lang".
+
 Agraïments a atemporalDarkness i Imsu. Els quals van fer la traducció castellana en la qual es basa aquesta traducció.
